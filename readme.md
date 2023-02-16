@@ -1,4 +1,5 @@
-Projeto DL Gestor
+<h1>Projeto DLInfo</h1>
 
-requisitos:
-PHP 8.1.5
+Linguagem de programação PHP 8.1
+
+<hr/>
