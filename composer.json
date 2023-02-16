@@ -1,0 +1,17 @@
+{
+    "description": "Projeto DL Info",
+    "authors": [
+        {
+            "name": "Darlinton Luis Siqueira",
+            "email": "darlinton2000@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Core\\": "core",
+            "App\\": "app",
+            "Sts\\": "app/sts"
+        }
+    },
+    "require": {}
+}
